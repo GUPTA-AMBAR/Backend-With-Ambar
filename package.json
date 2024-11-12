@@ -1,0 +1,16 @@
+{
+  "name": "real-backend",
+  "version": "1.0.0",
+  "description": "here is the real bckend start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "fun"
+  ],
+  "author": "Ambar Gupta",
+  "license": "ISC"
+}
